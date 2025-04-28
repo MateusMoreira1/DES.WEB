@@ -8,9 +8,10 @@ Experimente a aplicação ao vivo: [Pokédex Live](https://des-web-navy.vercel.a
 
 ## 📸 Capturas de Tela
 
-| Página Inicial | Informações do Pokémon | Gráficos de Estatísticas |
-| :------------: | :--------------------: | :----------------------: |
-| ![Home](01.png) | ![Detalhes](02.png) | ![Estatísticas](03.png) |
+| Página Inicial | Informações do Pokémon |
+| :------------: | :--------------------: |
+| ![Home](01.png) | ![Detalhes](02.png) |
+
 
 ## ✨ Funcionalidades
 
