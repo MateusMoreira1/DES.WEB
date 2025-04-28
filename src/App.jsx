@@ -20,8 +20,7 @@ function App() {
           </div>
           <footer className="footer">
             <p>
-              &copy; {new Date().getFullYear()} Desenvolvido por José Eduardo
-              Dias Rufino. Todos os direitos reservados.
+              &copy; {new Date().getFullYear()} Desenvolvido por Mateus Moreira
             </p>
           </footer>
         </div>
