@@ -13,7 +13,7 @@ function App() {
     <Suspense fallback={<Loader />}>
       <PokemonModalProvider>
         <div className="wrapper">
-          <h1 className="logo-pokemon">PokéCollector</h1>
+          <h1 className="logo-pokemon">Poké List</h1>
           <TypesBar toggleType={setType} />
           <div className="main-content">
             <PokemonsContainer type={type} />
