@@ -69,14 +69,16 @@ npm run build:    Cria os arquivos para produção.
 npm run preview:  Simula o ambiente de produção localmente.
 npm run test:     Executa a suíte de testes.
 
-# Estrutura do projeto
+## 📁 Estrutura do Projeto
 
+```bash
 src/
 ├── components/       # Componentes reutilizáveis (modais, abas, etc.)
-├── context/           # Contextos globais do React
-├── hooks/             # Hooks personalizados
-│   └── __tests__/     # Testes de hooks
-├── utils/             # Funções auxiliares
-├── App.jsx            # Componente principal da aplicação
-├── App.css            # Estilos globais
-└── main.jsx           # Ponto de entrada da aplicação
+├── context/          # Contextos globais do React
+├── hooks/            # Hooks personalizados
+│   └── __tests__/    # Testes de hooks
+├── utils/            # Funções auxiliares
+├── App.jsx           # Componente principal da aplicação
+├── App.css           # Estilos globais
+└── main.jsx          # Ponto de entrada da aplicação
+
